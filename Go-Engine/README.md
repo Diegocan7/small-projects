@@ -1,4 +1,4 @@
-# Go-Engine (kalinixta)
+# Go-Engine 
 
 A minimal Go game engine written in C that implements the [Go Text Protocol (GTP)](https://www.lysator.liu.se/~gunnar/gtp/) version 2. It can be used as a backend engine with any GTP-compatible Go GUI (such as GoGui or Sabaki).
 
